@@ -16,10 +16,10 @@ sidebar:
     email: tttriplicate@gmail.com
     phone: 000 000 0000
     timezone: America/Eastern Timezone
-    citizenship:
+    citizenship: United States
     website: TTTriplicate.github.io #do not add http://
     linkedin: csousa68w
-    xing: alandoe
+    xing: 
     github: TTTriplicate
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -28,14 +28,13 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://TTTriplicate.github.io/assets/images/Chris_Sousa_Resume.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
           level: Native
-
         - idiom: German
           level: Conversational
 
@@ -44,16 +43,17 @@ sidebar:
       info:
         - item: Gaming
           link:
-
         - item: 3D Printing
           link:
-
         - item: LARP
+          link:
+        - item: Razor Restoration
           link:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: | 
+      I am a military veteran and Software Engineer
       
 education:
     title: Education
