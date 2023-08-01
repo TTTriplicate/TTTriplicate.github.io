@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: tttriplicate@gmail.com
-    phone: 000 000 0000
+    phone: (603) 867-3354
     timezone: America/Eastern Timezone
     citizenship: United States
     website: TTTriplicate.github.io #do not add http://
@@ -74,39 +74,38 @@ experiences:
         time: 2021 - Present
         company: Liberty Mutual
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Participated in month-long, full-stack, immersive technical training
+          program
+          - As part of an Agile team, planned and developed a full-stack
+          application to modernize payment authorizations for Liberty Mutual's
+          more than 50,000 employees
+          - Designed, planned, and organized a modernization overhaul for Liberty
+          Mutual's internal help desk application using AWS serverless
+          infrastructure
       - role: Techstart Intern
         time: 2020, 2021
         company: Liberty Mutual
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Supported and maintained AWS-hosted DevOps infrastructure for 5000
+          developers in an Enterprise setting
+          - Worked directly with customers to identify and develop solutions to
+          complex problems
+          - Automated testing and deployment of build agent changes to both
+          Bamboo and Jenkins, reducing cycle time by ~10 minutes per iteration      
       - role: Meidcal Sergeant
         time: 2009 - 2023
         company: United States Army
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Taught Emergency Medical Technician and Basic Life Support refresher
+          courses to classes of up to 50 medics
+          - Organized and maintained medical equipment, supplies, and vehicles
+          valued in excess of $300,000
+          - Maintained medical readiness records of 75 soldiers and oversaw safety
+          procedures and medical treatment as Senior medic for Company C, 3-4
+          Cavalry
+          - Trained and lead teams of three to five Healthcare Specialists in
+          treatment of injuries and illnesses during military operations in the US
+          and the Philippines
 
 certifications:
       title: Certifications
@@ -115,23 +114,10 @@ certifications:
           start: 2023
           end: 2026
           organization: AWS
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialid: 6Z133W41WNFE103N
+          credentialurl: https://aw.certmetrics.com/amazon/public/verification.aspx 
+          credentialname: AWS
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
         
 # projects:
 #     title: Projects
@@ -205,22 +191,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Javascript & Typescript
+        level: 80%
+
+      - name: Docker
+        level: 80%
+
       - name: C++
-        level: 98%
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: React
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
       - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
 
 footer: >
