@@ -53,7 +53,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-      I am a military veteran and Software Engineer
+      I am a military veteran and early career Software Engineering generalist looking for a chance to specialize.
+      Experienced in Fullstack and DevOps.
       
 education:
     title: Education
@@ -70,7 +71,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Associate Software Engineer
+      - role: Software Engineer
         time: 2021 - Present
         company: Liberty Mutual
         details: |
@@ -79,7 +80,7 @@ experiences:
           - As part of an Agile team, planned and developed a full-stack
           application to modernize payment authorizations for Liberty Mutual's
           more than 50,000 employees
-          - Designed, planned, and organized a modernization overhaul for Liberty
+          - Designed, planned, and implemented a modernization overhaul for Liberty
           Mutual's internal help desk application using AWS serverless
           infrastructure
       - role: Techstart Intern
@@ -110,6 +111,13 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: AWS Certified Solutions Architect - Associate
+          start: 2023
+          end: 2026
+          organiztion: AWS
+          credentialid: D98KCEZ17FB11YK2
+          credentialurl: https://aw.certmetrics.com/amazon/public/verification.aspx 
+          credentialname: AWS
         - name: Certified Cloud Practioner
           start: 2023
           end: 2026
@@ -117,7 +125,6 @@ certifications:
           credentialid: 6Z133W41WNFE103N
           credentialurl: https://aw.certmetrics.com/amazon/public/verification.aspx 
           credentialname: AWS
-          details: |
         
 # projects:
 #     title: Projects
